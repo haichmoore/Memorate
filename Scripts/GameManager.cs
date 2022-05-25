@@ -5,17 +5,11 @@ using TMPro;
 
 public class GameManager : MonoBehaviour
 {
-    
-
     void Start()
     {
         InitialSetup();
     }
 
-    
-
-    
-    
     #region Setup
     Color color;
 
